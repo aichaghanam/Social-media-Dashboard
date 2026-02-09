@@ -43,7 +43,7 @@ This dashboard was designed to:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Data Modeling
